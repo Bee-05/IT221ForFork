@@ -19,6 +19,8 @@
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">แชทบอร์ด</li>
 				<li><a href="contact.php">รายละเอียดเพิ่มเติม</li>
+				<li><a href="contact.php">กระทู้</li>
+
 
 
 				</ul><p>
